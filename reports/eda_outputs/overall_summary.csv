@@ -1,0 +1,12 @@
+metric,value
+Total Transactions,6362620.0
+Fraud Transactions,8213.0
+Normal Transactions,6354407.0
+Fraud Rate (%),0.12908204481801522
+Total Transaction Amount,1144392944759.7698
+Total Fraud Transaction Amount,12056415427.84
+Minimum Transaction Amount,0.0
+Maximum Transaction Amount,92445516.64
+Invalid Fraud Labels,0.0
+Negative Amounts,0.0
+Total Missing Values,0.0

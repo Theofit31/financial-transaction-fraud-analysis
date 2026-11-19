@@ -1,0 +1,3 @@
+isFraud,transaction_count,amount_sum,amount_min,amount_max,average_amount,transaction_status
+0,6354407,1132336529331.93,0.01,92445516.64,178197.04172740743,Normal
+1,8213,12056415427.84,0.0,10000000.0,1467967.2991403872,Fraud

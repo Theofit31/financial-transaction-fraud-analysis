@@ -1,0 +1,3 @@
+type,fraud_transactions,total_fraud_amount,average_fraud_amount,minimum_fraud_amount,maximum_fraud_amount
+TRANSFER,4097,6067213184.01,1480891.67,63.80,10000000.00
+CASH_OUT,4116,5989202243.83,1455102.59,0.00,10000000.00

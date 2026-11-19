@@ -1,0 +1,22 @@
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/*
+data/processed/*
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
